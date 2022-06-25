@@ -28,8 +28,8 @@ The GUI is designed using MATlAB App Designer.
 - Signal Processing Toolbox in MATLAB
 
 
-# Results
+<!-- # Results
 
 ### Pitch Plots for Differents Windows
 
-### Pitch Plots for Different Filter Orders
+### Pitch Plots for Different Filter Orders -->
